@@ -99,7 +99,7 @@ or several Squad members (or external contributors, if
 suitable). Typically, one documentation lead and a deputy are
 recommended, but other setups are also possible.
 
-All assets in the repository are public visible, and so are the PRs or
+All assets in the repository are publicly visible, and so are the PRs or
 the review messages themselves. That’s why sensitive data like
 passwords, other certificates, other credentials, or customer data
 must never be checked into the repository. This also applies to
